@@ -1,0 +1,12 @@
+ENTRADA X, Y 
+SAIDA Z 
+Z=Y 
+ENQUANTO X FACA
+    INC(Z)
+    ZERA(X)
+    INC(Z)
+    DEC(Z)
+    Y=Z
+FIM
+FIM 
+FIM

@@ -1,0 +1,12 @@
+ENTRADA atr1, atri2
+SAIDA variavel
+ENQUANTO atr1 FACA  
+    INC(atri2)
+FIM
+variavel = atri2
+ZERA(atr1)
+SE atr1 ENTAO
+ZERA(variavel)
+FIM
+FIM
+FIM
